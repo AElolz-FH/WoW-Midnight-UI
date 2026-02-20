@@ -1,0 +1,21 @@
+Liste d'addons
+
+- alterego
+- premade groups filter
+- platynator ====== PROFILE dispo
+- auctionator
+- astral keys
+- bartender 4 
+- bettercooldownmanager ====== PROFILE DISPO
+- buffreminder ====== PROFILE DISPO
+- clique
+- dandersframes ====== PROFILE DISPO
+- dejacharacterstats
+- cursor trail
+- mplustimer ===== PROFILE DISPO
+- Mythic Dungeons Tools
+- raiderio
+- simc
+- true stat values
+- tomtom
+- unhaltedunitframes ====== PROFILE DISPO
