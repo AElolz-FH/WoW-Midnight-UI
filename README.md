@@ -1,5 +1,10 @@
 # Fancy UI for World of Warcraft Midnight
 
+## Preview of the UI
+<p align="center">
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f3922400-32b4-4d30-a2fc-9c6d8105d64e" />
+</p>
+
 ## For DandersFrames
 
 - Type `/df` in your chat  
